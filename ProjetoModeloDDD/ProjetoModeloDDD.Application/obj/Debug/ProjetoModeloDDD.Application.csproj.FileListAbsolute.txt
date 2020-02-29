@@ -1,0 +1,9 @@
+D:\ProjetoEstudo\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Application\bin\Debug\ProjetoModeloDDD.Application.dll
+D:\ProjetoEstudo\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Application\bin\Debug\ProjetoModeloDDD.Application.pdb
+D:\ProjetoEstudo\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Application\bin\Debug\ProjetoModeloDDD.Domain.dll
+D:\ProjetoEstudo\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Application\bin\Debug\ProjetoModeloDDD.Domain.pdb
+D:\ProjetoEstudo\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\ProjetoModeloDDD.Application.csprojAssemblyReference.cache
+D:\ProjetoEstudo\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\ProjetoModeloDDD.Application.csproj.CoreCompileInputs.cache
+D:\ProjetoEstudo\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\ProjetoModeloDDD.Application.csproj.CopyComplete
+D:\ProjetoEstudo\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\ProjetoModeloDDD.Application.dll
+D:\ProjetoEstudo\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\ProjetoModeloDDD.Application.pdb
